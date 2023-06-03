@@ -1,3 +1,7 @@
+package il.ac.hit.course.designPattern;
+
+import il.ac.hit.course.designPattern.ChatException;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;

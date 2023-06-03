@@ -1,3 +1,4 @@
+package il.ac.hit.course.designPattern;
 
 import java.io.IOException;
 import java.net.ServerSocket;

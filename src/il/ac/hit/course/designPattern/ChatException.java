@@ -1,3 +1,4 @@
+package il.ac.hit.course.designPattern;
 
 public class ChatException extends Exception {
     public ChatException(String message) {

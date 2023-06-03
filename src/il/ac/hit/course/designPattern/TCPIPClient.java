@@ -1,4 +1,4 @@
-
+package il.ac.hit.course.designPattern;
 
 import javax.swing.*;
 

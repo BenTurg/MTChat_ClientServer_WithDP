@@ -1,3 +1,5 @@
+package il.ac.hit.course.designPattern;
+import il.ac.hit.course.designPattern.ChatException;
 
 import java.io.*;
 import java.net.Socket;
